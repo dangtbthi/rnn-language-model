@@ -13,3 +13,4 @@ The current focus is on architectural understanding; no full implementation or t
 
 ## References
 1. [Dive into Deep Learning](https://d2l.ai/index.html)
+2. [Deep Learning], Chapter 10. (https://www.deeplearningbook.org/)
